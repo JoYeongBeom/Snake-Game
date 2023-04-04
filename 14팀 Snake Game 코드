@@ -37,7 +37,7 @@ function draw() {
   s.death();
   s.update();
   s.show();
-  image(foodType, food.x, food.y, scl, scl); // 먹이 이미지 그리기
+  image(foodType, food.x, food.y, scl, scl); // 초밥 이미지 그리기
 }
 
 // 초밥이 나타날 위치 선택
